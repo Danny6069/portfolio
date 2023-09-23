@@ -4,7 +4,7 @@ import React from 'react';
 import './About.css'; // Import the CSS file
 
 function About() {
-  return (12
+  return (
     <section id="about">
       <h2>About Me</h2>
       <p>
