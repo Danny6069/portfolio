@@ -1,0 +1,52 @@
+/* Contact.css */
+
+/* Contact section */
+#contact {
+    background-color: #f9f9f9; /* Background color */
+    padding: 40px; /* Padding around the contact section */
+    text-align: left;
+  }
+  
+  /* Contact information container */
+  .contact-info {
+    max-width: 600px; /* Set a maximum width for the contact information */
+    text-align: left; /* Center-align the text content */
+  }
+  
+  /* Contact paragraph */
+  .contact-info p {
+    font-size: 16px; /* Font size for contact paragraph */
+    color: #333; /* Text color for contact paragraph */
+    margin-bottom: 20px; /* Spacing below the contact paragraph */
+    text-align: left;
+  }
+  
+  /* Contact details list */
+  .contact-info ul {
+    list-style: none; /* Remove list bullets */
+    padding: 0; /* Remove default list padding */
+    text-align: left;
+  }
+  
+  /* Contact details list items */
+  .contact-info li {
+    font-size: 16px; /* Font size for contact details */
+    color: #333; /* Text color for contact details */
+    margin-bottom: 10px; /* Spacing between contact details */
+    text-align: left;
+  }
+  
+  /* Contact details links */
+  .contact-info a {
+    text-decoration: none; /* Remove underline from links */
+    color: #007bff; /* Link text color */
+    font-weight: bold; /* Make the links bold */
+    text-align: left;
+  }
+  
+  /* Style the links on hover */
+  .contact-info a:hover {
+    text-decoration: underline; /* Add underline on hover */
+    text-align: left;
+  }
+  

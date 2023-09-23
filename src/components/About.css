@@ -1,0 +1,47 @@
+/* About.css */
+
+/* About section */
+#about {
+    background-color: #f9f9f9; /* Background color */
+    padding: 40px; /* Padding around the About section */
+    text-align: left;
+  }
+  
+  /* About content container */
+  .about-content {
+    max-width: 600px; /* Set a maximum width for the content */
+    margin: 0 auto; /* Center the content horizontally */
+    text-align: left; /* Center-align the text content */
+  }
+  
+  /* About title */
+  .about-content h2 {
+    font-size: 24px; /* Font size for the section title */
+    color: #333; /* Text color for the section title */
+    margin-bottom: 20px; /* Spacing below the section title */
+  }
+  
+  /* About paragraph */
+  .about-content p {
+    font-size: 16px; /* Font size for the paragraph */
+    color: #555; /* Text color for the paragraph */
+    margin-bottom: 20px; /* Spacing below the paragraph */
+  }
+  
+  /* Strong (bold) text within the paragraph */
+  .about-content strong {
+    font-weight: bold; /* Make strong text bold */
+  }
+  
+  /* Call to action link */
+  .about-content a {
+    text-decoration: none; /* Remove underline from the link */
+    color: #007bff; /* Link text color */
+    font-weight: bold; /* Make the link bold */
+  }
+  
+  /* Style the link on hover */
+  .about-content a:hover {
+    text-decoration: underline; /* Add underline on hover */
+  }
+  

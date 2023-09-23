@@ -1,0 +1,33 @@
+/* Education.css */
+
+/* Education section */
+#education {
+    background-color: #f9f9f9; /* Background color */
+    padding: 40px; /* Padding around the education section */
+    text-align: left;
+  }
+  
+  /* Education items (individual educational experiences) */
+  .education-item {
+    margin-bottom: 30px; /* Spacing between individual education items */
+  }
+  
+  /* Degree title */
+  .education-item h3 {
+    font-size: 24px; /* Font size for degree titles */
+    margin-bottom: 10px; /* Spacing below degree titles */
+  }
+  
+  /* Graduation date */
+  .education-date {
+    font-size: 14px; /* Font size for graduation dates */
+    color: #555; /* Text color for graduation dates */
+    margin-bottom: 10px; /* Spacing below graduation dates */
+  }
+  
+  /* Institution information */
+  .education-item p {
+    font-size: 16px; /* Font size for institution information */
+    color: #333; /* Text color for institution information */
+  }
+  

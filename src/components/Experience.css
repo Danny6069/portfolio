@@ -1,0 +1,33 @@
+/* Experience.css */
+
+/* Experience section */
+#experience {
+    background-color: #f9f9f9; /* Background color */
+    padding: 40px; /* Padding around the experience section */
+    text-align: left;
+  }
+  
+  /* Experience items (individual job experiences) */
+  .experience-item {
+    margin-bottom: 30px; /* Spacing between individual experiences */
+  }
+  
+  /* Job title */
+  .experience-item h3 {
+    font-size: 24px; /* Font size for job titles */
+    margin-bottom: 10px; /* Spacing below job titles */
+  }
+  
+  /* Employment period */
+  .experience-date {
+    font-size: 14px; /* Font size for employment periods */
+    color: #555; /* Text color for employment periods */
+    margin-bottom: 10px; /* Spacing below employment periods */
+  }
+  
+  /* Job description */
+  .experience-item p {
+    font-size: 16px; /* Font size for job descriptions */
+    color: #333; /* Text color for job descriptions */
+  }
+  

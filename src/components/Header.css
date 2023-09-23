@@ -1,0 +1,44 @@
+/* Header.css */
+
+/* Header section */
+header {
+    background-color: #333; /* Background color */
+    color: #fff; /* Text color */
+    padding: 20px; /* Padding around the header */
+    text-align: center;
+  }
+  
+  /* Header title */
+  header h1 {
+    font-size: 36px; /* Font size for the title */
+    margin: 0; /* Remove margin to avoid extra spacing */
+  }
+  
+  /* Header subtitle */
+  header p {
+    font-size: 18px; /* Font size for the subtitle */
+    margin: 10px 0; /* Add margin above and below the subtitle */
+  }
+  
+  /* Navigation links */
+  nav ul {
+    list-style: none; /* Remove list bullets */
+    padding: 0; /* Remove default list padding */
+  }
+  
+  nav li {
+    display: inline; /* Display navigation links in a horizontal line */
+    margin-right: 20px; /* Add spacing between navigation links */
+  }
+  
+  nav a {
+    text-decoration: none; /* Remove underline from links */
+    color: #fff; /* Link text color */
+    font-weight: bold; /* Make the links bold */
+  }
+  
+  nav a:hover {
+    text-decoration: underline; /* Add underline on hover */
+    text-decoration-color: #3b5998;
+  }
+  
